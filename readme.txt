@@ -6,3 +6,6 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 test no-ff(fast-forword)
 this is a branch under dev
+this is a test about stash
+aaaaa
+bbbbb
